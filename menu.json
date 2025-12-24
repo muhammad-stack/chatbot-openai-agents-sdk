@@ -1,0 +1,35 @@
+{
+  "pizzas": [
+    {
+      "id": "margherita",
+      "name": "Margherita",
+      "description": "Tomato sauce, mozzarella, basil",
+      "sizes": {"small": 799, "medium": 1099, "large": 1399}
+    },
+    {
+      "id": "pepperoni",
+      "name": "Pepperoni",
+      "description": "Tomato sauce, mozzarella, pepperoni",
+      "sizes": {"small": 899, "medium": 1199, "large": 1499}
+    },
+    {
+      "id": "bbq_chicken",
+      "name": "BBQ Chicken",
+      "description": "BBQ sauce, mozzarella, chicken, onion",
+      "sizes": {"small": 999, "medium": 1299, "large": 1599}
+    },
+    {
+      "id": "veggie",
+      "name": "Veggie",
+      "description": "Tomato sauce, mozzarella, bell peppers, onion, olives, mushrooms",
+      "sizes": {"small": 899, "medium": 1199, "large": 1499}
+    }
+  ],
+  "extras": [
+    {"id": "extra_cheese", "name": "Extra cheese", "price": 150},
+    {"id": "jalapenos", "name": "Jalapeños", "price": 100},
+    {"id": "garlic_dip", "name": "Garlic dip", "price": 80}
+  ],
+  "delivery_fee": 200,
+  "tax_percent": 0
+}
